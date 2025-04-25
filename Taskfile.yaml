@@ -1,0 +1,12 @@
+---
+version: '3'
+
+tasks:
+  install:
+    desc: Install dotfiles
+    cmds:
+      - stow -V -t ~/ .
+  default:
+    cmds:
+      - task -l
+    silent: true
