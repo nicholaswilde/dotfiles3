@@ -1,7 +1,7 @@
 # dotfiles3
 [![task](https://img.shields.io/badge/task-enabled-brightgreen?logo=task&logoColor=white&style=for-the-badge)](https://taskfile.dev/#/)
 
-My Debian based dot files.
+A test dotfiles repo using stow.
 
 ---
 
