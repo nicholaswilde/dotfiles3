@@ -230,7 +230,7 @@ test -f "${FUNCTIONS_PATH}" && alias ef='${EDITOR} ${FUNCTIONS_PATH}'
 test -f "${BASHRC_PATH}" && alias erc='${EDITOR} ${BASHRC_PATH}'
 
 # Quickly load bashrc
-alias reload='brew leaves > ${GIT_USER_PATH}/dotfiles2/formulas  && source ~/.bashrc && git -C ${GIT_USER_PATH}/dotfiles2 add ${GIT_USER_PATH}/dotfiles2/* && git -C ${GIT_USER_PATH}/dotfiles2 commit --allow-empty-message -a -m ""; git -C ${GIT_USER_PATH}/dotfiles2 push origin main'
+alias reload='brew leaves > ${GIT_USER_PATH}/dotfiles3/formulas  && source ~/.bashrc && git -C ${GIT_USER_PATH}/dotfiles3 add ${GIT_USER_PATH}/dotfiles3/* && git -C ${GIT_USER_PATH}/dotfiles3 commit --allow-empty-message -a -m ""; git -C ${GIT_USER_PATH}/dotfiles3 push origin main'
 alias gcn='git -C ${GIT_USER_PATH}/notes add ${GIT_USER_PATH}/notes/* &&  git -C ${GIT_USER_PATH}/notes commit --allow-empty-message -a -m ""; git -C ${GIT_USER_PATH}/notes push origin main'
 
 # Stopwatch
