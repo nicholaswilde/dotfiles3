@@ -19,7 +19,7 @@ Inspiration for this repository has been taken from [jessfraz/dotfiles][2].
 
 ---
 
-## :balance_scale:​License
+## :balance_scale: License
 
 ​[Apache License 2.0](./LICENSE)
 
@@ -27,7 +27,7 @@ Inspiration for this repository has been taken from [jessfraz/dotfiles][2].
 
 ## :pencil: Author
 
-​This project was started in 2021 by [Nicholas Wilde][1].
+​This project was started in 2025 by [Nicholas Wilde][1].
 
 [1]: https://github.com/nicholaswilde/
 [2]: https://github.com/jessfraz/dotfiles
