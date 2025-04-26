@@ -2,10 +2,22 @@
 version: '3'
 
 tasks:
+  deps:
+    desc: Install dependencies
+    cmds:
+      - sudo apt install -y stow
   install:
     desc: Install dotfiles
     cmds:
-      - stow -V -t ~/ .
+      - stow -v -t ~/ .
+  delete:
+    desc: Delete
+    cmds:
+      - stow -v -D -t ~/ .
+  test:
+    desc: Test
+    cmds:
+    - stow -n -v -t ~/ .
   default:
     cmds:
       - task -l

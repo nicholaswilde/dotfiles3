@@ -27,7 +27,7 @@ fi
 # Remove the file by default
 command_exists shred && alias shred='shred -u'
 
-command_exists fping &&        alias pingall='fping -l 192.168.1.202 192.168.1.203 192.168.1.189 192.168.1.195 192.168.1.199 192.168.1.172 192.168.1.201'
+command_exists fping &&	alias pingall='fping -l 192.168.1.202 192.168.1.203 192.168.1.189 192.168.1.195 192.168.1.199 192.168.1.172 192.168.1.201'
 
 #boinc-client
 if command_exists boinccmd; then
