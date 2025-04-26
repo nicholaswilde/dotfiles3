@@ -80,7 +80,7 @@ export GITHUB_USER=nicholaswilde
 
 # For boilerplater
 export AUTHOR_NAME="Nicholas Wilde"
-export AUTHOR_GPG_KEY="0x08b7d7a3"
+export AUTHOR_GPG_KEY="0xb299a622"
 
 export GIT_PATH="${HOME}/git"
 export GIT_USER_PATH="${GIT_PATH}/${GITHUB_USER}"
@@ -95,9 +95,6 @@ test -f "${HOME}/.tokens" && source "${HOME}/.tokens"
 # pass-git-helper
 GPG_TTY=$(tty)
 export GPG_TTY
-
-# IP of ingress host
-export INGRESS_HOST=192.168.1.203
 
 # https://www.commandlinefu.com/commands/view/1560/set-cdpath-to-ease-navigation
 export CDPATH=:..:~
