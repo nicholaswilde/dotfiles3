@@ -2,6 +2,7 @@
 ^/LICENSE*
 ^/COPYING
 ^/Taskfile.*
+^/formulas
 
 \.git
 \.gitignore
