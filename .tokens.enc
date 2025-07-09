@@ -1,0 +1,7 @@
+export GEMINI_API_KEY=ENC[AES256_GCM,data:LuX1DfW8Yv3MLrfnwNAceCSREg0HPVPPKD+GX8W+OmDJkm8huX1WQNo=,iv:J8XitIpL4hm63gskgyr7waGSr8P7we1jdprm35aOw/Y=,tag:Izke0pBmTDeR44caAptD6g==,type:str]
+sops_age__list_0__map_enc=-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBjRWg3RlFHM2pidGtCQUVm\nekhpQkJnMVRORnhFaWEwaXNFSTdFVWIzQ1drCldPUWtHWXBGc0djRGxKV004bXlF\nT0REQUFDTEJzbHJXaEpIdjJndkJkcWMKLS0tIFJka3RqclBCWVgrVFFCMEwyWmx0\ndkNhVlFoay9YcTRQUjMveU51c2RsbGcKBHcIAGf7KsguDDlB6/9iHTNWj7Zxv+43\nNqIqj+xDwzNWQDqSP3IhLrpm07Vke9XO5Yj6sdhLtUKMRRsbpHqy4w==\n-----END AGE ENCRYPTED FILE-----\n
+sops_age__list_0__map_recipient=age1x2at6wwq2gks47fsep9a25emdeqd93e3k0gfsswtmhruqrteu5jqjvy7kd
+sops_lastmodified=2025-07-09T14:05:55Z
+sops_mac=ENC[AES256_GCM,data:JFqNZEmxidWdvUIG1k+pOVTardh+apEcEUYh5/yT62LZPQwz6A+6vuxBQl5fuPPbYmoOrXtB5/qsall/HURi+i24LvMcViH6QVrCYUPT9SI1zJrbiTISaRTiIQHwyC9Ys9KM0dZJ1yGscqwV7JSneM0etrGUXGeU4Mupp4iyOac=,iv:80riQOEaEcro5mrnlXOGEYEyalJl4YID+2H8IWXfDr0=,tag:Q1vkB6b+YRpO9V5Muzk8Hg==,type:str]
+sops_unencrypted_suffix=_unencrypted
+sops_version=3.10.2

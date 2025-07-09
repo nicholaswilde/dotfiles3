@@ -2,6 +2,18 @@
 version: '3'
 
 tasks:
+  decrypt:
+    desc: Decrypt .env using SOPS
+    preconditions:
+      - test -f .tokens.enc
+    cmds:
+      - sops -d --input-type dotenv --output-type dotenv .tokens.enc > .tokens
+  encrypt:
+    desc: Encrypt .env using SOPS
+    preconditions:
+      - test -f .tokens
+    cmds:
+      - sops -e --input-type dotenv --output-type dotenv .tokens > .tokens.enc
   deps:
     desc: Install dependencies
     cmds:
@@ -17,7 +29,7 @@ tasks:
   test:
     desc: Test
     cmds:
-    - stow -n -v -t ~/ .
+      - stow -n -v -t ~/ .
   default:
     cmds:
       - task -l
