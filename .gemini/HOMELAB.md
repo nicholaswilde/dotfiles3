@@ -31,7 +31,9 @@
 - **References:** Always end a page with a References section.
 - References section starts with the :link: emoji.
 - References section has a list of relevant links.
-- Config section 
+- **Config:** Create a config section
+- **Installation:** Create an installation section
+- **Usage:** Create a usage section
 
 ## docs/apps/
 
