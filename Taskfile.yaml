@@ -22,6 +22,10 @@ tasks:
     desc: Install dotfiles
     cmds:
       - stow -v -t ~/ .
+  restow:
+    desc: Reinstall dotfiles
+    cmds:
+      - stow -v -R -t ~/ .
   delete:
     desc: Delete
     cmds:
