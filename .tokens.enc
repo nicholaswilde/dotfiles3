@@ -1,7 +1,8 @@
-export GEMINI_API_KEY=ENC[AES256_GCM,data:LuX1DfW8Yv3MLrfnwNAceCSREg0HPVPPKD+GX8W+OmDJkm8huX1WQNo=,iv:J8XitIpL4hm63gskgyr7waGSr8P7we1jdprm35aOw/Y=,tag:Izke0pBmTDeR44caAptD6g==,type:str]
-sops_age__list_0__map_enc=-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBjRWg3RlFHM2pidGtCQUVm\nekhpQkJnMVRORnhFaWEwaXNFSTdFVWIzQ1drCldPUWtHWXBGc0djRGxKV004bXlF\nT0REQUFDTEJzbHJXaEpIdjJndkJkcWMKLS0tIFJka3RqclBCWVgrVFFCMEwyWmx0\ndkNhVlFoay9YcTRQUjMveU51c2RsbGcKBHcIAGf7KsguDDlB6/9iHTNWj7Zxv+43\nNqIqj+xDwzNWQDqSP3IhLrpm07Vke9XO5Yj6sdhLtUKMRRsbpHqy4w==\n-----END AGE ENCRYPTED FILE-----\n
+export GEMINI_API_KEY=ENC[AES256_GCM,data:QcUwBiesqGmjq8vTPcbU0I2kjmC/CKotGagkttLaRiaQQ3i+eeFY4pE=,iv:C8DVxCjQCBMWZTBhtWA8Pc9GsS45rjd/EHs+kHdaBCM=,tag:HMpxenWhks3GwbUZkpLS0A==,type:str]
+export OPENAI_API_KEY=ENC[AES256_GCM,data:EdL7unhCVz9FEttmiTdfAowZ9wLIJmcIpQW+Lf1DhUY+bePqCMKeqYrgQv8Hh0suhwFRIljJACCZfu8TbZCNyZFsaJhsyiLgm73HpbdBkKMy7qVVgItOlJJzCUmZH99ROsEdIHNkL7g4Qs3vRQVlhxCI9zHVOEhcBD1llKxf8SlXS7LkzHPhJ+8E4n2u2xpToon/MGGQiXi9Vd+kV9WMYwBdlVOjuQ==,iv:GNzKbOueavOBK/YWkEnazWt393lxQT0ZHX2szpAsRNI=,tag:VjkltG9ERKuIy3QbdCMolQ==,type:str]
+sops_age__list_0__map_enc=-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSB1ZlVuRWhkWEU3ZDhBZGpx\nK0RUNXBQeFlkMGFCMytYS09MTzFXVS9jM3gwCnM4NTk0QUszQ3Jqd1owQmlHd1R0\nU0FEbGk3dlVnQldvWUtWSG14Q2xyUjQKLS0tIEczQ20zTVNiNUpYcUFKL3oyNGx5\nRDUzNjhHazVieGdyS3pmWlpIVUVqZmMKcruBa8DiXkIyLSib11T6t+UbjsAG8uXt\nM/4pe4UJfc+I9KUXy915GbWtGV5eg2XKcZTIEzW/mPs6EjvxCTx/jw==\n-----END AGE ENCRYPTED FILE-----\n
 sops_age__list_0__map_recipient=age1x2at6wwq2gks47fsep9a25emdeqd93e3k0gfsswtmhruqrteu5jqjvy7kd
-sops_lastmodified=2025-07-09T14:05:55Z
-sops_mac=ENC[AES256_GCM,data:JFqNZEmxidWdvUIG1k+pOVTardh+apEcEUYh5/yT62LZPQwz6A+6vuxBQl5fuPPbYmoOrXtB5/qsall/HURi+i24LvMcViH6QVrCYUPT9SI1zJrbiTISaRTiIQHwyC9Ys9KM0dZJ1yGscqwV7JSneM0etrGUXGeU4Mupp4iyOac=,iv:80riQOEaEcro5mrnlXOGEYEyalJl4YID+2H8IWXfDr0=,tag:Q1vkB6b+YRpO9V5Muzk8Hg==,type:str]
+sops_lastmodified=2025-08-31T04:33:55Z
+sops_mac=ENC[AES256_GCM,data:vjHcGgF/T5T53D6JxxzT6BTrkadILZNgN0itN166/vXL6VHyU6yfbngVCTgmkQhbvbufTqy8uRSsm2EYCNFFyKLdcGtB+msxJrAFI2RMNf5altNtzt/h8pDfxnw+kEyUByXHEsDRFbrYp6heebc+O3A5BgY2T8r38wUnqEG4HBk=,iv:nsICpCEPolSgFBA/J7a8ToA+/6qDf0tlO50eZBINzss=,tag:IFUFEKP/XxVkQAfG47U2Ng==,type:str]
 sops_unencrypted_suffix=_unencrypted
 sops_version=3.10.2
