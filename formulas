@@ -2,4 +2,6 @@ gcc
 gh
 glow
 go-task
+hugo
+pre-commit
 sops

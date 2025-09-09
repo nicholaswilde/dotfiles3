@@ -3,7 +3,7 @@
   "contextFileName": "AGENTS.md",
   "mcpServers": {
     "sharedAgents": {
-      "httpUrl": "https://mcp-server.l.nicholaswilde.io"
+      "httpUrl": "http://192.168.2.177:8080"
     }
   }
 }

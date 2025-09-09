@@ -388,3 +388,4 @@ function cpdeg() { ## Copy degree symbol, °
 function bwfind() {
   bw list items --search $1 | jq '.[] | .name,.login'
 }
+eval "$(gh copilot alias -- bash)"
