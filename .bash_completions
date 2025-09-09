@@ -58,6 +58,10 @@ if command_exists direnv; then
   eval "$(direnv hook bash)"
 fi
 
+if command_exists "gh copilot"; then
+  eval "$(gh copilot alias -- bash)"
+fi
+
 _mk_completion() {
     local IFS=$'
 '
