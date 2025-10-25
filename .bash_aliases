@@ -302,3 +302,5 @@ fi
 if command_exists ansible-vault; then
   alias av='ansible-vault'
 fi
+
+[ -f ~/.ssh/config ] && alias lsssh='grep "^Host " ~/.ssh/config | cut -d" " -f 2- | sort'
