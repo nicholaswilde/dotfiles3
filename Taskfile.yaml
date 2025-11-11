@@ -29,6 +29,7 @@ tasks:
   delete:
     desc: Delete
     cmds:
+      - rm -rf ~/.gnupg/gpg-agent.conf ~/.gnupg/gpg.conf
       - stow -v -D -t ~/ .
   test:
     desc: Test
